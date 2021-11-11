@@ -1,3 +1,12 @@
+/*
+
+Created By: Parag Jain
+Usage: 
+Simple Python UDF for PII detection
+
+Created On: 11/11/2021
+*/
+
 use schema tweets_db.public;
 use warehouse lab_s_wh;
 
