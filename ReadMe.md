@@ -1,6 +1,6 @@
 # This is a simple PII detection demo using Snowflake Python UDF 
 
-Many times we have to search through rows of text data to identify personal identifiable information (PII). It is to make sure that developers don't misuse this information and create a secure and governed data platform.
+Many times data engineers and data scientists have to search through massive text data to identify personal identifiable information (PII). This UDF helps to complete the task and you can tag the PII in text while querying the data. This code can be extended to variety of use cases like masking PII, removing PII etc.
 
 # How to use this code
 
