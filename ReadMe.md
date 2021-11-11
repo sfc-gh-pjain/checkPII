@@ -10,6 +10,6 @@ Many times data engineers and data scientists have to search through massive tex
 4. First time run (cold load/run) takles about 40s on small warehouse
 5. use the select statement to demo the UDF functionality
 
-tags - #snoparkUDF #PythonUDF
+tags - #snowpark #PythonUDF
 
 Slack us at #feat-Python-UDFs for any issues or comment
